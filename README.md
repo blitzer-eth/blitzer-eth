@@ -1,10 +1,10 @@
 # Hi, I'm Alex (Ching-Wei Lin)! 👋
 
-# About Me
+## About Me
 * 🌍 Based in Seattle, WA
 * 🎓 Senior at University of Washington, majoring in Economics and minor in Data Science
 
-# Experiences
+## Experiences
 
 * Previously
   * Quantitative Analyst Intern @ Definer Labs
