@@ -13,6 +13,3 @@
 
 * **LinkedIn:** [Ching-Wei (Alex) Lin](https://www.linkedin.com/in/ching-wei-lin1/)
 * **Email:** alexlin0527@gmail.com
-
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blitzer-eth&show_icons=true&theme=algolia&hide_border=true)
