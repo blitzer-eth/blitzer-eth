@@ -15,4 +15,4 @@
 * **Email:** alexlin0527@gmail.com
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=algolia&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blitzer-eth&show_icons=true&theme=algolia&hide_border=true)
